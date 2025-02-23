@@ -9,4 +9,5 @@ package com.glz;
 public class Person {
     private int age;
     private String name;
+    public double height;
 }
